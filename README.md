@@ -1,2 +1,2 @@
-# ubuntu-conf
-Ubuntu configuration
+# Ubuntu configuration
+
