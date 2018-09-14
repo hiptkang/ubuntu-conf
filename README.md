@@ -5,7 +5,8 @@
 ```
 ~/.config/font-manager/local.conf
 ```
-[참고 샘플](/16.04/home/user/.config/font-manager/local.conf)
+- [Font configuration -- wiki](https://wiki.archlinux.org/index.php/Font_configuration)
+- [참고 샘플](/16.04/home/user/.config/font-manager/local.conf)
 
 System-wide 폰트를 수정하려면 다음 파일을 수정한다.
 ```
